@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo "我的php主页的"
+        echo "我的php主页"
         ?>
     </body>
 </html>
